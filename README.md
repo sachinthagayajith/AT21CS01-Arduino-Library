@@ -64,7 +64,7 @@ Sachintha Gayajith
 - Based on principles from Dallas Semiconductor One-Wire protocol
 - Developed during internship at #S Fabrication Company
 - Tested with ESP32 microcontroller platform
-<img width="796" height="376" alt="image" src="https://github.com/user-attachments/assets/fd1a2aa9-c512-4903-a12f-562e4cd0d1bd" />
+<img width="796" height="376" alt="image" src="https://github.com/user-attachments/assets/fd1a2aa9-c512-4903-a12f-562e4cd0d1bd" />.
 ## Hardware Setup
 
 - Connect AT21CS01 data pin to GPIO 4.  
