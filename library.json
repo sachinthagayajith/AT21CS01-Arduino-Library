@@ -13,7 +13,7 @@
     },
     "license": "MIT",
     "frameworks": "arduino",
-    "platforms": "*",
+    "platforms": "esp32",
     "headers": "AT21CS01.h",
     "examples": [
         {
@@ -40,3 +40,4 @@
     }
 
 }
+
