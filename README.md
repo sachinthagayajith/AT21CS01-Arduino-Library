@@ -67,7 +67,7 @@ Sachintha Gayajith
 <img width="796" height="376" alt="image" src="https://github.com/user-attachments/assets/fd1a2aa9-c512-4903-a12f-562e4cd0d1bd" />.
 ## Hardware Setup
 
-- Connect AT21CS01 data pin to GPIO 4.  
+- Connect AT21CS01 data pin to GPIO 13 in ESP32.  
 - Use Rpull as 2.1k resistor.  
 - Connect VCC to 3.3V and GND to GND.  
 - Verify timing with an oscilloscope if needed.
