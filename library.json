@@ -5,7 +5,7 @@
     "keywords": "eeprom, one-wire, 1-wire, at21cs01, memory, storage, calibration",
     "repository": {
         "type": "git",
-        "url": "https://github.com/your-username/AT21CS01.git"
+        "url": "https://github.com/sachinthagayajith/AT21CS01-Arduino-Library"
     },
     "authors": {
         "name": "Sachintha Gayajith",
@@ -38,4 +38,5 @@
             "library.json"
         ]
     }
+
 }
