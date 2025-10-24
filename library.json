@@ -1,0 +1,41 @@
+{
+    "name": "AT21CS01",
+    "version": "1.0.0",
+    "description": "Arduino library for AT21CS01 1-Wire EEPROM with energy harvesting capability",
+    "keywords": "eeprom, one-wire, 1-wire, at21cs01, memory, storage, calibration",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/your-username/AT21CS01.git"
+    },
+    "authors": {
+        "name": "Sachintha Gayajith",
+        "maintainer": true
+    },
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*",
+    "headers": "AT21CS01.h",
+    "examples": [
+        {
+            "name": "Basic Read Write",
+            "base": "examples/Basic_Read_Write",
+            "files": ["Basic_Read_Write.ino"]
+        },
+        {
+            "name": "Load Cell Calibration",
+            "base": "examples/Load_Cell_Calibration",
+            "files": ["Load_Cell_Calibration.ino"]
+        }
+    ],
+    "dependencies": {
+    },
+    "export": {
+        "exclude": [
+            ".git",
+            ".github",
+            "*.yml",
+            "*.md",
+            "library.json"
+        ]
+    }
+}
