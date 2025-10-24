@@ -65,5 +65,9 @@ Sachintha Gayajith
 - Developed during internship at #S Fabrication Company
 - Tested with ESP32 microcontroller platform
 <img width="796" height="376" alt="image" src="https://github.com/user-attachments/assets/fd1a2aa9-c512-4903-a12f-562e4cd0d1bd" />
-##
--use rpull as 2.1k resitor
+## Hardware Setup
+
+- Connect AT21CS01 data pin to GPIO 4.  
+- Use Rpull as 2.1k resistor.  
+- Connect VCC to 3.3V and GND to GND.  
+- Verify timing with an oscilloscope if needed.
