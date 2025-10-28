@@ -47,7 +47,7 @@ void setup() {
 
 ## Development History
 
-This library was developed during an internship at #S Fabrication Company (Dankotuwa, Sri Lanka) for storing load cell calibration data. The implementation is based on studying the Dallas Semiconductor One-Wire protocol and adapting it to meet AT21CS01's specific requirements.
+This library was developed during an internship at 3S Fabrication Company (Dankotuwa, Sri Lanka) for storing load cell calibration data. The implementation is based on studying the Dallas Semiconductor One-Wire protocol and adapting it to meet AT21CS01's specific requirements.
 
 All timing parameters have been verified using oscilloscope measurements to ensure compliance with the AT21CS01 datasheet specifications.
 
